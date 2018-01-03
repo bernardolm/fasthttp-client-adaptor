@@ -4,7 +4,7 @@
         "{GOPATH}/src/github.com/bernardolm/fasthttp-client-adaptor"
     ],
     "SourceExt": [".c", ".cpp", ".go", ".h"],
-    "BuildCmd": "go get",
-    "RunCmd": "go test",
+    "BuildCmd": "go get ./...",
+    "RunCmd": "go test ./...",
     "Decreasing": 1
 }
