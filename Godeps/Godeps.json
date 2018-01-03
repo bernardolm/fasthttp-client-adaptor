@@ -1,0 +1,81 @@
+{
+	"ImportPath": "github.com/bernardolm/fasthttp-client-adaptor",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/davecgh/go-spew/spew",
+			"Comment": "v1.1.0-9-gecdeabc",
+			"Rev": "ecdeabc65495df2dec95d7c4a4c3e021903035e5"
+		},
+		{
+			"ImportPath": "github.com/klauspost/compress/flate",
+			"Comment": "v1.2.1-9-gd3a829a",
+			"Rev": "d3a829afd165e1e870f10e010000bfa9db586d17"
+		},
+		{
+			"ImportPath": "github.com/klauspost/compress/gzip",
+			"Comment": "v1.2.1-9-gd3a829a",
+			"Rev": "d3a829afd165e1e870f10e010000bfa9db586d17"
+		},
+		{
+			"ImportPath": "github.com/klauspost/compress/zlib",
+			"Comment": "v1.2.1-9-gd3a829a",
+			"Rev": "d3a829afd165e1e870f10e010000bfa9db586d17"
+		},
+		{
+			"ImportPath": "github.com/klauspost/cpuid",
+			"Comment": "v1.1",
+			"Rev": "ae7887de9fa5d2db4eaa8174a7eff2c1ac00f2da"
+		},
+		{
+			"ImportPath": "github.com/pmezard/go-difflib/difflib",
+			"Comment": "v1.0.0",
+			"Rev": "792786c7400a136282c1664665ae0a8db921c6c2"
+		},
+		{
+			"ImportPath": "github.com/sirupsen/logrus",
+			"Comment": "v1.0.3-11-g89742ae",
+			"Rev": "89742aefa4b206dcf400792f3bd35b542998eb3b"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Comment": "v1.1.4-72-g2aa2c17",
+			"Rev": "2aa2c176b9dab406a6970f6a55f513e8a8c8b18f"
+		},
+		{
+			"ImportPath": "github.com/valyala/bytebufferpool",
+			"Rev": "e746df99fe4a3986f4d4f79e13c1e0117ce9c2f7"
+		},
+		{
+			"ImportPath": "github.com/valyala/fasthttp",
+			"Comment": "v20160617-118-g70ceadd",
+			"Rev": "70ceaddfae639b5f0eca290382de18f64d5aa62d"
+		},
+		{
+			"ImportPath": "github.com/valyala/fasthttp/fasthttputil",
+			"Comment": "v20160617-118-g70ceadd",
+			"Rev": "70ceaddfae639b5f0eca290382de18f64d5aa62d"
+		},
+		{
+			"ImportPath": "github.com/valyala/fasthttp/stackless",
+			"Comment": "v20160617-118-g70ceadd",
+			"Rev": "70ceaddfae639b5f0eca290382de18f64d5aa62d"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh/terminal",
+			"Rev": "2509b142fb2b797aa7587dad548f113b2c0f20ce"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "176de7413414c01569163271c745672ff04a7267"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/windows",
+			"Rev": "176de7413414c01569163271c745672ff04a7267"
+		}
+	]
+}
